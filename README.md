@@ -84,6 +84,8 @@ Example:
 
 (O) - electromagnet
  o  - time of flight sensor
+
+Note: Please notice the orientation of notch.
 ```
 
 ## authors
